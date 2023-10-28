@@ -6,7 +6,6 @@ const initialObj = {
     e: 123,
 };
 
-
 function solutinFn(object){
     str = 0;
     num = 0;
